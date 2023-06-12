@@ -24,7 +24,7 @@ export default async function Home() {
   // await postTest();
   return (
     <div className="m-5">
-      <h1 id="hello">hello</h1>
+      <h1 id="hello">hello!!!</h1>
       {/* <p>{JSON.stringify(test)}</p> */}
       <Image
         priority
